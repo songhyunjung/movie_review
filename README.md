@@ -22,7 +22,7 @@
     * **머신러닝 모델:** `scikit-learn`의 `LogisticRegression`
     * **모델 평가:** `scikit-learn.metrics` (accuracy_score, classification_report, confusion_matrix)
     * **시각화:** `matplotlib`, `seaborn` (한글 폰트 적용: `NanumBarunGothic`)
-* **개발 환경:** Google Colab 또는 로컬 Jupyter Notebook
+* **개발 환경:** Google Colab 
 
 ## 4. 프로젝트 진행 과정
 
